@@ -9,3 +9,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Proje Ismi | Dosya Linki |
 | ---------- | ----------- |
 | Not Ortalamasi Hesaplayan Program | [Pratik - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/NotOrtalamasiHesaplayanProgram/src/Main.java) |
+| KDV Tutari Hesaplayan Program | [Pratik - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/KDVTutariHesaplayanProgram/src/Main.java) |
