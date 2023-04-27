@@ -10,3 +10,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | ---------- | ----------- |
 | Not Ortalamasi Hesaplayan Program | [Pratik - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/NotOrtalamasiHesaplayanProgram/src/Main.java) |
 | KDV Tutari Hesaplayan Program | [Pratik - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/KDVTutariHesaplayanProgram/src/Main.java) |
+| Dik Ucgende Hipotenus Bulan Program | [Pratik - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/DikUcgendeHipotenusBulanProgram/src/Main.java) |
