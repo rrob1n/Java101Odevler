@@ -9,3 +9,4 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | Proje Ismi | Dosya Linki |
 | ---------- | ----------- |
 | Vucut Kitle Endeksi Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/VucutKitleEndeksiHesaplama/src/Main.java) |
+| Manav Kasa Programi | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/ManavKasaProgrami/src/Main.java)
