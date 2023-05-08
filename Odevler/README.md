@@ -10,3 +10,10 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | ---------- | ----------- |
 | Vucut Kitle Endeksi Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/VucutKitleEndeksiHesaplama/src/Main.java) |
 | Manav Kasa Programi | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/ManavKasaProgrami/src/Main.java)
+
+
+### 2 - Kosullu Ifadeler ve Kod Bloklari
+
+| Proje Ismi | Dosya Linki |
+| ---------- | ----------- |
+| Ucak Bileti Fiyati Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/UcakBiletiFiyatiHesaplama/src/Main.java) |
