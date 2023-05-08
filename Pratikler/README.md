@@ -23,3 +23,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Sinifi Gecme Durumu | [Pratik - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/SinifiGecmeDurumu/src/Main.java) |
 | Hava Sicakligina Gore Etkinlik Onerme | [Pratik - 4](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/HavaSicakliginaGoreEtkinlikOnerme/src/Main.java) |
 | Sayilari Siralayan Program | [Pratik - 5](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/SayilariSiralayanProgram/src/Main.java) |
+| Burc Bulan Program | [Pratik - 6](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/BurcBulanProgram/src/Main.java) |
