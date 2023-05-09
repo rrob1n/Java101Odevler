@@ -11,6 +11,8 @@ public class Main {
         double minTutar = 20;
         double acilis = 10;
         double total = 0;
+        
+        System.out.println("Odenebilecek minimum tutar : " + minTutar);
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Mesafeyi km cinsinden giriniz : ");
@@ -21,6 +23,7 @@ public class Main {
 
         System.out.println("Toplam tutar : " + total);
 
+        scanner.close();
 
     }
 }
