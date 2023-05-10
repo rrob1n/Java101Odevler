@@ -18,3 +18,4 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | ---------- | ----------- |
 | Ucak Bileti Fiyati Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/UcakBiletiFiyatiHesaplama/src/Main.java) |
 | Cin Zodyagi Hesaplama | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/CinZodyagiHesaplama/src/Main.java) |
+| Artik Yil Hesaplama | [Odev - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/ArtikYilHesaplama/src/Main.java) |
