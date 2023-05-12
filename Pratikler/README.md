@@ -24,3 +24,9 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Hava Sicakligina Gore Etkinlik Onerme | [Pratik - 4](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/HavaSicakliginaGoreEtkinlikOnerme/src/Main.java) |
 | Sayilari Siralayan Program | [Pratik - 5](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/SayilariSiralayanProgram/src/Main.java) |
 | Burc Bulan Program | [Pratik - 6](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/BurcBulanProgram/src/Main.java) |
+
+### 3 - Donguler
+
+| Proje Ismi | Dosya Linki |
+| ---------- | ----------- |
+| Girilen Sayiya Kadar Olan Cift Sayilari Bulan Program| [Pratik - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/GirilenSayiyaKadarOlanCiftSayilariBulanProgram/src/Main.java)
