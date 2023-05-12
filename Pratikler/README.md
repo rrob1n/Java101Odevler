@@ -30,3 +30,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Proje Ismi | Dosya Linki |
 | ---------- | ----------- |
 | Girilen Sayiya Kadar Olan Cift Sayilari Bulan Program| [Pratik - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/GirilenSayiyaKadarOlanCiftSayilariBulanProgram/src/Main.java)
+| Tek Sayilarin Toplamini Bulan Program | [Pratik - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/TekSayilarinToplaminiBulanProgram/src/Main.java) |
