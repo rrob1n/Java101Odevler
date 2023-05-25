@@ -34,3 +34,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Girilen Sayidan Kucuk Ikinin Kuvvetlerini Bulan Program | [Pratik - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/GirilenSayidanKucukIkininKuvvetleriniBulanProgram/src/Main.java) |
 | Faktoriyel Hesaplayan Program | [Pratik - 4](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/FaktoriyelHesaplayanProgram/src/Main.java) |
 | Uslu Sayi Hesaplayan Program | [Pratik - 5](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/UsluSayiHesaplayanProgram/src/Main.java) |
+| Armstrong Sayilari Bulan Program | [Pratik - 6](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/ArmstrongSayilariBulanProgram/src/Main.java) |
