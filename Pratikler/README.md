@@ -36,3 +36,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Uslu Sayi Hesaplayan Program | [Pratik - 5](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/UsluSayiHesaplayanProgram/src/Main.java) |
 | Armstrong Sayilari Bulan Program | [Pratik - 6](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/ArmstrongSayilariBulanProgram/src/Main.java) |
 | Harmonik Sayilari Bulan Program | [Pratik - 7](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/HarmonikSayilariBulanProgram/src/Main.java) |
+| Yildizlar Ile Ucgen Olusturma | [Pratik - 8](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/YildizlarIleUcgenYapimi/src/Main.java) |
