@@ -38,3 +38,4 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Harmonik Sayilari Bulan Program | [Pratik - 7](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/HarmonikSayilariBulanProgram/src/Main.java) |
 | Yildizlar Ile Ucgen Olusturma | [Pratik - 8](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/YildizlarIleUcgenYapimi/src/Main.java) |
 | ATM Projesi | [Pratik - 9](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/ATMProjesi/src/Main.java) |
+| EBOB ve EKOK Bulan Program | [Pratik - 10](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/EBOBveEKOKBulanProgram/src/Main.java) |
