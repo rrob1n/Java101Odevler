@@ -28,3 +28,4 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | Min ve Max Degerleri Bulma | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/MinVeMaxDegerleriBulma/src/Main.java) |
 | Mukemmel Sayi Bulan Program | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/MukemmelSayiBulanProgram/src/Main.java) |
 | Ters Ucgen Yapimi | [Odev - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/TersUcgenYapimi/src/Main.java) |
+| Asal Sayilari Bulan Program | [Odev - 4](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/AsalSayilariBulanProgram/src/Main.java) |
