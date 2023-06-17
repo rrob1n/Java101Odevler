@@ -30,3 +30,10 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | Ters Ucgen Yapimi | [Odev - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/TersUcgenYapimi/src/Main.java) |
 | Asal Sayilari Bulan Program | [Odev - 4](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/AsalSayilariBulanProgram/src/Main.java) |
 | Fibonacci Serisi | [Odev - 5](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/FibonacciSerisi/src/Main.java) |
+
+### 4 - Metotlar
+
+| Proje Ismi | Dosya Linki |
+| ---------- | ----------- |
+| Recursive Metotlar ile Uslu Sayi Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/RecursiveMetotlarIleUsluSayiHesaplama/src/Main.java) |
+
