@@ -37,4 +37,5 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | ---------- | ----------- |
 | Recursive Metotlar ile Uslu Sayi Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/RecursiveMetotlarIleUsluSayiHesaplama/src/Main.java) |
 | Recursive Asal Sayi Bulan Program | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/RecursiveAsalSayiBulanProgram/src/Main.java) |
+| Desene Gore Metot Olusturma | [Odev - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/DeseneGoreMetotOlusturma/src/Main.java) |
 
