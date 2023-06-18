@@ -48,4 +48,10 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Recursive Ile Fibonacci Serisi Bulan Program | [Pratik - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/RecursiveIleFibonacciSerisiBulanProgram/src/Main.java) |
 | Gelismis Hesap Makinesi | [Pratik - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Pratikler/GelismisHesapMakinesi/src/Main.java) |
 
+### 5 - Siniflar
+
+| Proje Ismi | Dosya Linki |
+| ---------- | ----------- |
+| Ogrenci Bilgi Sistemi | [Pratik - 1](https://github.com/rrob1n/Java101Odevler/tree/main/Pratikler/OgrenciBilgiSistemi/src) |
+
 
