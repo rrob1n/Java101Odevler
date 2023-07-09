@@ -39,3 +39,11 @@ Asagida yer alan linklerden direk istediginiz odev dosyasina ulasabilirsiniz. Od
 | Recursive Asal Sayi Bulan Program | [Odev - 2](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/RecursiveAsalSayiBulanProgram/src/Main.java) |
 | Desene Gore Metot Olusturma | [Odev - 3](https://github.com/rrob1n/Java101Odevler/blob/main/Odevler/DeseneGoreMetotOlusturma/src/Main.java) |
 
+### 5 - Siniflar
+
+| Proje Ismi | Dosya Linki |
+| ---------- | ----------- |
+| Maas Hesaplama | [Odev - 1](https://github.com/rrob1n/Java101Odevler/tree/main/Odevler/MaasHesaplayici/src) |
+
+
+
