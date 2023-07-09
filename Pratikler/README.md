@@ -53,5 +53,6 @@ Asagida yer alan linklerden direk istediginiz pratik dosyasina ulasabilirsiniz. 
 | Proje Ismi | Dosya Linki |
 | ---------- | ----------- |
 | Ogrenci Bilgi Sistemi | [Pratik - 1](https://github.com/rrob1n/Java101Odevler/tree/main/Pratikler/OgrenciBilgiSistemi/src) |
+| Boks Oyunu | [Pratik - 2](https://github.com/rrob1n/Java101Odevler/tree/main/Pratikler/BoksOyunu/src) |
 
 
